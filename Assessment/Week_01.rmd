@@ -1,0 +1,15 @@
+## Portfolio Assignment week 01
+
+Study the Tutorial tutorial_cluster_scanpy_object and the tutorial_Clustering_Methods
+
+Write a brief summary about the following:
+
+-	What are common preprocessing steps? Explain for each step why and when you should execute this step and when not.
+-	What visualization methods are used in the cluster methods tutorial? Explain why the selected method is the most appropriate method for the visualization. Bonus points: do this as well for the scanpy tutorial.
+-	What performance/evaluation metrics are in the cluster methods tutorial? Explain why the used methods are the most appropriate method for the evaluation.
+
+
+Bonus:
+You practice the steps yourself with the breast_cancer dataset (clustering_data.csv)
+
+
