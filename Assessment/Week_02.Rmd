@@ -1,0 +1,36 @@
+## Portfolio Assignment week 02
+
+This week's focus is on manifold learning and text clustering. As part of the portfolio assignment, you are required to make a contribution to either the manifold learning case or the text clustering case. There are several options for your contribution, so you can choose the one that aligns with your learning style or interests the most
+
+
+### Manifold learning
+
+Study the Tutorial tutorial_manifold_tSNE and the tutorial_manifold_spectral_clustering
+Improve the code by comparing the performance of k-means, spectral clustering, and the visualizations of PCA and t-SNE on the dataset using the pipeline function of scikit-learn and hyperparameter tuning with GridSearchCV. Here's a possible approach:
+
+- Load the dataset to be used for the clustering analysis.
+- Preprocess the dataset as needed (e.g., scale the features, normalize the data, etc.).
+- Define a pipeline with k-means clustering, spectral clustering and Visualization of the clusters 
+- use PCA and t-SNE for dimension reduction and visualize the dimensions with hue of labels
+- choose the best cluster method and the best visualization method combination
+- use GridSearchCV to optimize the hyper parameters
+- Evaluate the performance of the models using a suitable metric, such as silhouette score or adjusted rand index.
+
+Explain choises and evaluate outcome. You can do this assignment in pairs but if you do so mention each others name. Do not forget to reference.
+
+
+### Text clustering
+
+Read, execute and analyse the code in the notebook tutorial_clustering_words. Then *choose one* of the assignments a), b) or c). 
+
+a) read the article Clinical Documents Clustering Based on Medication/Symptom Names Using Multi-View Nonnegative Matrix Factorization. you can find the article <a href = 'https://pubmed.ncbi.nlm.nih.gov/26011887/'> here</a>. Explain the similarities of this notebook and the article. Explain in your own words what need to be added to this notebook to reproduce the article. There is no need to code the solution, you can mention in your own words the steps. 
+
+b) Improve the outcome improving the data preprocessing and the hyper parameter configurations. Explain your choices. Your solution should be a coded solution with comments. Are there any other weighting solutions next to TF-IDF?
+
+c) Provide a text clustering solution with your own data of interest, you can follow a similar approach to the one in the tutorial_clustering_words notebook. 
+
+Mind you that you are not allowed to copy code solutions without referencing.
+
+
+
+
