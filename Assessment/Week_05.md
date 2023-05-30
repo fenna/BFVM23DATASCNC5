@@ -17,7 +17,7 @@ Classification metrics are important for measuring the performance of your model
 
 For instance, if you have to predict whether a patient has cancer or not, the number of false negatives is probably more important than the number of false positives. This would be different if we were predicting whether a picture contains a cat or a dog – or not: it all depends on the context. Thus, it is important to understand when to use which metric.
 
-Download the [breast cancer dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset) that you can find on assemblix2019 (`/data/datasets/DS3/`) and go through the data science pipeline as you've done before:
+For this exercise, you can use your own dataset if that is eligable for supervised classification. Otherwise, you can use the [breast cancer dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset) which you can find on assemblix2019 (`/data/datasets/DS3/`). Go through the data science pipeline as you've done before:
 
 1. Try to understand the dataset globally.
 2. Load the data.
