@@ -9,7 +9,7 @@ Based on the theory in the [accompanying notebook](../Exercises/E_BAGGING_BOOSTI
 2. Load the data.
 3. Exploratory analysis
 4. Preprocess data (skewness, normality, etc.)
-5. Modeling (cross-validation and training)
-6. Evaluation
+5. Modeling (cross-validation and training). (**Create several bagging classifiers with different estimators**.)
+6. Evaluation (**Use the evaluation methods as described in the previous lessons. Then compare the different models**.)
 7. Try to understand why some methods perform better than others. Try different configurations for your bagging and boosting models.
 
